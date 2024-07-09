@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚I'm a 2nd year B.Tech Computer Science student<br>🏓I like to watch anime in my free time<br>🤖Game developer (mainly 3D modeling)<br>👩‍💻Full-Stack Web Developer (MERN stack)
+📚I'm a 3rd year B.Tech Computer Science student<br>🏓I like to watch anime in my free time<br>🤖Game developer (mainly 3D modeling)<br>👩‍💻Full-Stack Web Developer (MERN stack)<br>🌐https://neildev.site/
 
 
 # 💻 Tech Stack:
